@@ -1,0 +1,22 @@
+{
+    "name": "achieversaim/larasalesbinder",
+    "description": "sales binder for laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Achieversaim\\Larasalesbinder\\": "src/"
+        },
+        "files": [
+            "src/Helpers/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Abhi Singh",
+            "email": "abhimanevsingh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
